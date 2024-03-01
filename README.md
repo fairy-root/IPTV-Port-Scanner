@@ -1,6 +1,5 @@
 ### IPTV Port Scanner
 
-```markdown
 # IPTV Port Scanner
 
 The IPTV Port Scanner is a specialized Python tool designed to help identify open network ports on IPTV systems. This utility is aimed at network administrators, security professionals, and IPTV service providers to ensure network security, compliance, and efficient service delivery by identifying accessible ports that could be potential vectors for unauthorized access or vulnerabilities.
