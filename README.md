@@ -57,6 +57,12 @@ To use the IPTV Port Scanner, follow these steps:
 
 When scanning IPTV systems, be mindful of the potential impact on network performance and service availability. Always coordinate scanning activities with network administrators and conduct scans during maintenance windows or low-usage periods to minimize disruption.
 
+## Donation
+- USDt (TRC20): `TGCVbSSJbwL5nyXqMuKY839LJ5q5ygn2uS`
+- BTC: `13GS1ixn2uQAmFQkte6qA5p1MQtMXre6MT`
+- ETH (ERC20): `0xdbc7a7dafbb333773a5866ccf7a74da15ee654cc`
+- LTC: `Ldb6SDxUMEdYQQfRhSA3zi4dCUtfUdsPou`
+
 ## Legal Disclaimer
 
 This IPTV Port Scanner is intended for educational, ethical hacking, and professional security assessment purposes only. Unauthorized scanning and testing of networks without explicit permission is illegal in many jurisdictions. It is the user's responsibility to comply with all applicable laws and regulations. The developers assume no liability for misuse or damages caused by this tool.
